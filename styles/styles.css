@@ -22,16 +22,16 @@ body {
     .about_position {
         font-style: normal;
 font-weight: 700;
-font-size: 14px;
-line-height: 17px;
+font-size: 45px;
+line-height: 55px;
 color: #000000;
 margin-bottom: 20px;
     }
     .about_name_class {
         font-style: normal;
 font-weight: 700;
-font-size: 45px;
-line-height: 55px;
+font-size: 24px;
+line-height: 17px;
 color: #000000;
 margin-bottom: 25px;
 
@@ -208,7 +208,7 @@ color: #000000;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #444D5A;
+    color: #FFFFFF;
 }
 .tech_skills_list {
     color: #FFFFFF;
